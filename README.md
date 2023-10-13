@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love to play cricket, snooker
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imi.munawar) 
 
 # 💻 Tech Stack:
